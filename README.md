@@ -28,11 +28,12 @@ as "Daishian". A person that has no powers is called a "scrub."
 
 A "Scrub" is a non power holding person and is by far the most common type of person on Daishi. The term "scrub" was 
 once a derogatory slang but has since been adopted as a common name. In very formal settings "scrub" is still considered
-impolite and the more proper term "Common" is preferred. 
+impolite and the more proper term "Common" is preferred. For example, the Imperial council has "Common" seats that can
+only be held by a Scrub.
  
 ## Synergy
 
-Synergy is, for lack of a better word, the "magic" of Daishi. A Daishian will have synergy with one or more of the
+[Synergy](synergies) is, for lack of a better word, the "magic" of Daishi. A Daishian will have synergy with one or more of the
 natural forces. The strength of this synergy allows greater control and awareness of their respective forces. A scrub
 is simply a person with no synergies. 
 
